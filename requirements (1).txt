@@ -1,6 +1,5 @@
 streamlit
 scikit-learn
+sentence-transformers
 pandas
 numpy
-pickle-mixin
-sentence_transformers
