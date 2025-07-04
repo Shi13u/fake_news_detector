@@ -1,5 +1,8 @@
 streamlit
 scikit-learn
-sentence-transformers
 pandas
 numpy
+sentence-transformers==2.2.2
+torch==2.1.2
+transformers==4.38.2
+pickle-mixin
