@@ -3,4 +3,4 @@ scikit-learn
 pandas
 numpy
 pickle-mixin
-sentence-transformers
+sentence_transformers
